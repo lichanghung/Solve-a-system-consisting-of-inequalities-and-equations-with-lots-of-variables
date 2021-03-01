@@ -1,0 +1,199 @@
+FindInstance[-1120 + Subscript[A, 1]^2 + (16/9)*Subscript[A, 1]*
+      (Subscript[A, 2] + 7*(Subscript[A, 4] + 6*Subscript[A, 6] + 30*Subscript[A, 7])) + 
+     Subscript[B, 1]^2 + (16/9)*Subscript[B, 1]*(Subscript[B, 2] + 7*Subscript[B, 4] + 
+       42*Subscript[B, 6]) + Subscript[C, 1]^2 + (16*Subscript[C, 1]*Subscript[C, 2])/
+      9 + (112*Subscript[C, 1]*Subscript[C, 4])/9 + Subscript[D, 1]^2 + 
+     (16*Subscript[D, 1]*Subscript[D, 2])/9 + (112*Subscript[D, 1]*Subscript[D, 4])/9 + 
+     Subscript[G, 1]^2 + (16*Subscript[G, 1]*Subscript[G, 2])/9 + Subscript[H, 1]^2 + 
+     (16*Subscript[H, 1]*Subscript[H, 2])/9 + Subscript[J, 1]^2 <= 0 && 
+   (1/25)*(38640 + 25*Subscript[A, 2]^2 + 60*Subscript[A, 3]*Subscript[A, 4] + 
+      80*Subscript[A, 3]*Subscript[A, 5] + 80*Subscript[A, 3]*Subscript[A, 6] + 
+      12*Subscript[A, 2]*(3*Subscript[A, 3] + 5*(Subscript[A, 4] + Subscript[A, 5] + 
+          Subscript[A, 6])) + 10*Subscript[A, 1]*(5*Subscript[A, 3] - 
+        35*Subscript[A, 4] + 6*(Subscript[A, 5] - 41*Subscript[A, 6] - 
+          210*Subscript[A, 7])) + 25*Subscript[B, 2]^2 + 50*Subscript[B, 1]*
+       Subscript[B, 3] + 36*Subscript[B, 2]*Subscript[B, 3] - 
+      350*Subscript[B, 1]*Subscript[B, 4] + 60*Subscript[B, 2]*Subscript[B, 4] + 
+      60*Subscript[B, 3]*Subscript[B, 4] + 60*Subscript[B, 1]*Subscript[B, 5] + 
+      60*Subscript[B, 2]*Subscript[B, 5] + 80*Subscript[B, 3]*Subscript[B, 5] - 
+      2460*Subscript[B, 1]*Subscript[B, 6] + 60*Subscript[B, 2]*Subscript[B, 6] + 
+      80*Subscript[B, 3]*Subscript[B, 6] + 25*Subscript[C, 2]^2 + 
+      50*Subscript[C, 1]*Subscript[C, 3] + 36*Subscript[C, 2]*Subscript[C, 3] - 
+      350*Subscript[C, 1]*Subscript[C, 4] + 60*Subscript[C, 2]*Subscript[C, 4] + 
+      60*Subscript[C, 3]*Subscript[C, 4] + 60*Subscript[C, 1]*Subscript[C, 5] + 
+      60*Subscript[C, 2]*Subscript[C, 5] + 80*Subscript[C, 3]*Subscript[C, 5] + 
+      25*Subscript[D, 2]^2 + 50*Subscript[D, 1]*Subscript[D, 3] + 
+      36*Subscript[D, 2]*Subscript[D, 3] - 350*Subscript[D, 1]*Subscript[D, 4] + 
+      60*Subscript[D, 2]*Subscript[D, 4] + 60*Subscript[D, 3]*Subscript[D, 4] + 
+      25*Subscript[G, 2]^2 + 50*Subscript[G, 1]*Subscript[G, 3] + 
+      36*Subscript[G, 2]*Subscript[G, 3] + 25*Subscript[H, 2]^2) <= 0 && 
+   (1/25)*(-3720 + 25*Subscript[A, 3]^2 - 30*Subscript[A, 1]*Subscript[A, 5] + 
+      180*Subscript[A, 1]*Subscript[A, 6] - 10*Subscript[A, 3]*
+       (3*Subscript[A, 4] + 4*(Subscript[A, 5] + Subscript[A, 6])) + 
+      6*Subscript[A, 2]*(2*Subscript[A, 3] - 5*(Subscript[A, 4] + Subscript[A, 5] + 
+          Subscript[A, 6])) + 1050*Subscript[A, 1]*Subscript[A, 7] + 
+      12*Subscript[B, 2]*Subscript[B, 3] + 25*Subscript[B, 3]^2 - 
+      30*Subscript[B, 2]*Subscript[B, 4] - 30*Subscript[B, 3]*Subscript[B, 4] - 
+      30*Subscript[B, 1]*Subscript[B, 5] - 30*Subscript[B, 2]*Subscript[B, 5] - 
+      40*Subscript[B, 3]*Subscript[B, 5] + 180*Subscript[B, 1]*Subscript[B, 6] - 
+      30*Subscript[B, 2]*Subscript[B, 6] - 40*Subscript[B, 3]*Subscript[B, 6] + 
+      12*Subscript[C, 2]*Subscript[C, 3] + 25*Subscript[C, 3]^2 - 
+      30*Subscript[C, 2]*Subscript[C, 4] - 30*Subscript[C, 3]*Subscript[C, 4] - 
+      30*Subscript[C, 1]*Subscript[C, 5] - 30*Subscript[C, 2]*Subscript[C, 5] - 
+      40*Subscript[C, 3]*Subscript[C, 5] + 12*Subscript[D, 2]*Subscript[D, 3] + 
+      25*Subscript[D, 3]^2 - 30*Subscript[D, 2]*Subscript[D, 4] - 
+      30*Subscript[D, 3]*Subscript[D, 4] + 12*Subscript[G, 2]*Subscript[G, 3] + 
+      25*Subscript[G, 3]^2) <= 0 && 
+   (1/475)*(-5040 + 475*Subscript[A, 4]^2 + 90*Subscript[A, 1]*Subscript[A, 5] + 
+      1000*Subscript[A, 4]*Subscript[A, 5] - 540*Subscript[A, 1]*Subscript[A, 6] + 
+      400*Subscript[A, 4]*Subscript[A, 6] + 600*Subscript[A, 5]*Subscript[A, 6] - 
+      20*Subscript[A, 3]*(3*Subscript[A, 4] + 44*Subscript[A, 5] + 24*Subscript[A, 6]) - 
+      2*Subscript[A, 2]*(18*Subscript[A, 3] + 5*(-9*Subscript[A, 4] + 
+          6*Subscript[A, 5] + 26*Subscript[A, 6])) - 1400*Subscript[A, 1]*
+       Subscript[A, 7] - 36*Subscript[B, 2]*Subscript[B, 3] + 
+      90*Subscript[B, 2]*Subscript[B, 4] - 60*Subscript[B, 3]*Subscript[B, 4] + 
+      475*Subscript[B, 4]^2 + 90*Subscript[B, 1]*Subscript[B, 5] - 
+      60*Subscript[B, 2]*Subscript[B, 5] - 880*Subscript[B, 3]*Subscript[B, 5] + 
+      1000*Subscript[B, 4]*Subscript[B, 5] - 540*Subscript[B, 1]*Subscript[B, 6] - 
+      260*Subscript[B, 2]*Subscript[B, 6] - 480*Subscript[B, 3]*Subscript[B, 6] + 
+      400*Subscript[B, 4]*Subscript[B, 6] + 600*Subscript[B, 5]*Subscript[B, 6] - 
+      36*Subscript[C, 2]*Subscript[C, 3] + 90*Subscript[C, 2]*Subscript[C, 4] - 
+      60*Subscript[C, 3]*Subscript[C, 4] + 475*Subscript[C, 4]^2 + 
+      90*Subscript[C, 1]*Subscript[C, 5] - 60*Subscript[C, 2]*Subscript[C, 5] - 
+      880*Subscript[C, 3]*Subscript[C, 5] + 1000*Subscript[C, 4]*Subscript[C, 5] - 
+      36*Subscript[D, 2]*Subscript[D, 3] + 90*Subscript[D, 2]*Subscript[D, 4] - 
+      60*Subscript[D, 3]*Subscript[D, 4] + 475*Subscript[D, 4]^2 - 
+      36*Subscript[G, 2]*Subscript[G, 3]) <= 0 && 
+   (1/4275)*(-158520 - 630*Subscript[A, 1]*Subscript[A, 5] + 
+      600*Subscript[A, 4]*Subscript[A, 5] + 4275*Subscript[A, 5]^2 + 
+      10*Subscript[A, 3]*(42*Subscript[A, 4] + 331*Subscript[A, 5] - 
+        614*Subscript[A, 6]) + 3780*Subscript[A, 1]*Subscript[A, 6] - 
+      900*Subscript[A, 4]*Subscript[A, 6] - 1350*Subscript[A, 5]*Subscript[A, 6] + 
+      42*Subscript[A, 2]*(6*Subscript[A, 3] - 5*(3*Subscript[A, 4] - 2*Subscript[A, 5] + 
+          23*Subscript[A, 6])) + 43050*Subscript[A, 1]*Subscript[A, 7] + 
+      252*Subscript[B, 2]*Subscript[B, 3] - 630*Subscript[B, 2]*Subscript[B, 4] + 
+      420*Subscript[B, 3]*Subscript[B, 4] - 630*Subscript[B, 1]*Subscript[B, 5] + 
+      420*Subscript[B, 2]*Subscript[B, 5] + 3310*Subscript[B, 3]*Subscript[B, 5] + 
+      600*Subscript[B, 4]*Subscript[B, 5] + 4275*Subscript[B, 5]^2 + 
+      3780*Subscript[B, 1]*Subscript[B, 6] - 4830*Subscript[B, 2]*Subscript[B, 6] - 
+      6140*Subscript[B, 3]*Subscript[B, 6] - 900*Subscript[B, 4]*Subscript[B, 6] - 
+      1350*Subscript[B, 5]*Subscript[B, 6] + 252*Subscript[C, 2]*Subscript[C, 3] - 
+      630*Subscript[C, 2]*Subscript[C, 4] + 420*Subscript[C, 3]*Subscript[C, 4] - 
+      630*Subscript[C, 1]*Subscript[C, 5] + 420*Subscript[C, 2]*Subscript[C, 5] + 
+      3310*Subscript[C, 3]*Subscript[C, 5] + 600*Subscript[C, 4]*Subscript[C, 5] + 
+      4275*Subscript[C, 5]^2 + 252*Subscript[D, 2]*Subscript[D, 3] - 
+      630*Subscript[D, 2]*Subscript[D, 4] + 420*Subscript[D, 3]*Subscript[D, 4] + 
+      252*Subscript[G, 2]*Subscript[G, 3]) <= 0 && 
+   (1/2850)*(50760 + 315*Subscript[A, 1]*Subscript[A, 5] - 2200*Subscript[A, 4]*
+       Subscript[A, 5] - 1890*Subscript[A, 1]*Subscript[A, 6] + 
+      3300*Subscript[A, 4]*Subscript[A, 6] + 2100*Subscript[A, 5]*Subscript[A, 6] + 
+      2850*Subscript[A, 6]^2 + Subscript[A, 3]*(-210*Subscript[A, 4] + 
+        720*Subscript[A, 5] + 2120*Subscript[A, 6]) - 21*Subscript[A, 2]*
+       (6*Subscript[A, 3] - 5*(3*Subscript[A, 4] - 2*Subscript[A, 5] + 
+          23*Subscript[A, 6])) - 21525*Subscript[A, 1]*Subscript[A, 7] - 
+      126*Subscript[B, 2]*Subscript[B, 3] + 315*Subscript[B, 2]*Subscript[B, 4] - 
+      210*Subscript[B, 3]*Subscript[B, 4] + 315*Subscript[B, 1]*Subscript[B, 5] - 
+      210*Subscript[B, 2]*Subscript[B, 5] + 720*Subscript[B, 3]*Subscript[B, 5] - 
+      2200*Subscript[B, 4]*Subscript[B, 5] - 1890*Subscript[B, 1]*Subscript[B, 6] + 
+      2415*Subscript[B, 2]*Subscript[B, 6] + 2120*Subscript[B, 3]*Subscript[B, 6] + 
+      3300*Subscript[B, 4]*Subscript[B, 6] + 2100*Subscript[B, 5]*Subscript[B, 6] + 
+      2850*Subscript[B, 6]^2 - 126*Subscript[C, 2]*Subscript[C, 3] + 
+      315*Subscript[C, 2]*Subscript[C, 4] - 210*Subscript[C, 3]*Subscript[C, 4] + 
+      315*Subscript[C, 1]*Subscript[C, 5] - 210*Subscript[C, 2]*Subscript[C, 5] + 
+      720*Subscript[C, 3]*Subscript[C, 5] - 2200*Subscript[C, 4]*Subscript[C, 5] - 
+      126*Subscript[D, 2]*Subscript[D, 3] + 315*Subscript[D, 2]*Subscript[D, 4] - 
+      210*Subscript[D, 3]*Subscript[D, 4] - 126*Subscript[G, 2]*Subscript[G, 3]) <= 0 && 
+   (1/750)*(25680 + 45*Subscript[A, 1]*Subscript[A, 5] - 270*Subscript[A, 1]*
+       Subscript[A, 6] - 10*Subscript[A, 3]*(3*Subscript[A, 4] + 
+        4*(Subscript[A, 5] + Subscript[A, 6])) - 3075*Subscript[A, 1]*Subscript[A, 7] + 
+      Subscript[A, 2]*(-18*Subscript[A, 3] + 15*(3*Subscript[A, 4] - 2*Subscript[A, 5] + 
+          23*Subscript[A, 6] + 100*Subscript[A, 7])) - 18*Subscript[B, 2]*
+       Subscript[B, 3] + 45*Subscript[B, 2]*Subscript[B, 4] - 
+      30*Subscript[B, 3]*Subscript[B, 4] + 45*Subscript[B, 1]*Subscript[B, 5] - 
+      30*Subscript[B, 2]*Subscript[B, 5] - 40*Subscript[B, 3]*Subscript[B, 5] - 
+      270*Subscript[B, 1]*Subscript[B, 6] + 345*Subscript[B, 2]*Subscript[B, 6] - 
+      40*Subscript[B, 3]*Subscript[B, 6] - 18*Subscript[C, 2]*Subscript[C, 3] + 
+      45*Subscript[C, 2]*Subscript[C, 4] - 30*Subscript[C, 3]*Subscript[C, 4] + 
+      45*Subscript[C, 1]*Subscript[C, 5] - 30*Subscript[C, 2]*Subscript[C, 5] - 
+      40*Subscript[C, 3]*Subscript[C, 5] - 18*Subscript[D, 2]*Subscript[D, 3] + 
+      45*Subscript[D, 2]*Subscript[D, 4] - 30*Subscript[D, 3]*Subscript[D, 4] - 
+      18*Subscript[G, 2]*Subscript[G, 3]) == 0 && 
+   (1/1125)*(-16320 + 45*Subscript[A, 1]*Subscript[A, 5] - 
+      270*Subscript[A, 1]*Subscript[A, 6] + Subscript[A, 2]*(-18*Subscript[A, 3] + 
+        45*Subscript[A, 4] - 30*Subscript[A, 5] + 345*Subscript[A, 6]) - 
+      10*Subscript[A, 3]*(3*Subscript[A, 4] + 29*Subscript[A, 5] - 46*Subscript[A, 6] - 
+        225*Subscript[A, 7]) - 3075*Subscript[A, 1]*Subscript[A, 7] - 
+      18*Subscript[B, 2]*Subscript[B, 3] + 45*Subscript[B, 2]*Subscript[B, 4] - 
+      30*Subscript[B, 3]*Subscript[B, 4] + 45*Subscript[B, 1]*Subscript[B, 5] - 
+      30*Subscript[B, 2]*Subscript[B, 5] - 290*Subscript[B, 3]*Subscript[B, 5] - 
+      270*Subscript[B, 1]*Subscript[B, 6] + 345*Subscript[B, 2]*Subscript[B, 6] + 
+      460*Subscript[B, 3]*Subscript[B, 6] - 18*Subscript[C, 2]*Subscript[C, 3] + 
+      45*Subscript[C, 2]*Subscript[C, 4] - 30*Subscript[C, 3]*Subscript[C, 4] + 
+      45*Subscript[C, 1]*Subscript[C, 5] - 30*Subscript[C, 2]*Subscript[C, 5] - 
+      290*Subscript[C, 3]*Subscript[C, 5] - 18*Subscript[D, 2]*Subscript[D, 3] + 
+      45*Subscript[D, 2]*Subscript[D, 4] - 30*Subscript[D, 3]*Subscript[D, 4] - 
+      18*Subscript[G, 2]*Subscript[G, 3]) == 0 && 
+   (1/14250)*(-56880 + 405*Subscript[A, 1]*Subscript[A, 5] - 
+      5000*Subscript[A, 4]*Subscript[A, 5] - 2430*Subscript[A, 1]*Subscript[A, 6] + 
+      7500*Subscript[A, 4]*Subscript[A, 6] - 3000*Subscript[A, 5]*Subscript[A, 6] + 
+      Subscript[A, 3]*(-270*Subscript[A, 4] + 3640*Subscript[A, 5] + 
+        1640*Subscript[A, 6]) - 27*Subscript[A, 2]*(6*Subscript[A, 3] - 
+        5*(3*Subscript[A, 4] - 2*Subscript[A, 5] + 23*Subscript[A, 6])) - 
+      27675*Subscript[A, 1]*Subscript[A, 7] + 28500*Subscript[A, 4]*Subscript[A, 7] - 
+      162*Subscript[B, 2]*Subscript[B, 3] + 405*Subscript[B, 2]*Subscript[B, 4] - 
+      270*Subscript[B, 3]*Subscript[B, 4] + 405*Subscript[B, 1]*Subscript[B, 5] - 
+      270*Subscript[B, 2]*Subscript[B, 5] + 3640*Subscript[B, 3]*Subscript[B, 5] - 
+      5000*Subscript[B, 4]*Subscript[B, 5] - 2430*Subscript[B, 1]*Subscript[B, 6] + 
+      3105*Subscript[B, 2]*Subscript[B, 6] + 1640*Subscript[B, 3]*Subscript[B, 6] + 
+      7500*Subscript[B, 4]*Subscript[B, 6] - 3000*Subscript[B, 5]*Subscript[B, 6] - 
+      162*Subscript[C, 2]*Subscript[C, 3] + 405*Subscript[C, 2]*Subscript[C, 4] - 
+      270*Subscript[C, 3]*Subscript[C, 4] + 405*Subscript[C, 1]*Subscript[C, 5] - 
+      270*Subscript[C, 2]*Subscript[C, 5] + 3640*Subscript[C, 3]*Subscript[C, 5] - 
+      5000*Subscript[C, 4]*Subscript[C, 5] - 162*Subscript[D, 2]*Subscript[D, 3] + 
+      405*Subscript[D, 2]*Subscript[D, 4] - 270*Subscript[D, 3]*Subscript[D, 4] - 
+      162*Subscript[G, 2]*Subscript[G, 3]) == 0 && 
+   (1/14250)*(297840 + 585*Subscript[A, 1]*Subscript[A, 5] - 
+      3000*Subscript[A, 4]*Subscript[A, 5] - 10*Subscript[A, 3]*
+       (39*Subscript[A, 4] + 2*Subscript[A, 5] - 448*Subscript[A, 6]) - 
+      3510*Subscript[A, 1]*Subscript[A, 6] + 4500*Subscript[A, 4]*Subscript[A, 6] + 
+      6750*Subscript[A, 5]*Subscript[A, 6] - 39*Subscript[A, 2]*
+       (6*Subscript[A, 3] - 5*(3*Subscript[A, 4] - 2*Subscript[A, 5] + 
+          23*Subscript[A, 6])) - 39975*Subscript[A, 1]*Subscript[A, 7] + 
+      28500*Subscript[A, 5]*Subscript[A, 7] - 234*Subscript[B, 2]*Subscript[B, 3] + 
+      585*Subscript[B, 2]*Subscript[B, 4] - 390*Subscript[B, 3]*Subscript[B, 4] + 
+      585*Subscript[B, 1]*Subscript[B, 5] - 390*Subscript[B, 2]*Subscript[B, 5] - 
+      20*Subscript[B, 3]*Subscript[B, 5] - 3000*Subscript[B, 4]*Subscript[B, 5] - 
+      3510*Subscript[B, 1]*Subscript[B, 6] + 4485*Subscript[B, 2]*Subscript[B, 6] + 
+      4480*Subscript[B, 3]*Subscript[B, 6] + 4500*Subscript[B, 4]*Subscript[B, 6] + 
+      6750*Subscript[B, 5]*Subscript[B, 6] - 234*Subscript[C, 2]*Subscript[C, 3] + 
+      585*Subscript[C, 2]*Subscript[C, 4] - 390*Subscript[C, 3]*Subscript[C, 4] + 
+      585*Subscript[C, 1]*Subscript[C, 5] - 390*Subscript[C, 2]*Subscript[C, 5] - 
+      20*Subscript[C, 3]*Subscript[C, 5] - 3000*Subscript[C, 4]*Subscript[C, 5] - 
+      234*Subscript[D, 2]*Subscript[D, 3] + 585*Subscript[D, 2]*Subscript[D, 4] - 
+      390*Subscript[D, 3]*Subscript[D, 4] - 234*Subscript[G, 2]*Subscript[G, 3]) == 0 && 
+   (1/7125)*(-12840 - 585*Subscript[A, 1]*Subscript[A, 5] + 
+      3000*Subscript[A, 4]*Subscript[A, 5] + 10*Subscript[A, 3]*
+       (39*Subscript[A, 4] + 2*Subscript[A, 5] - 448*Subscript[A, 6]) + 
+      3510*Subscript[A, 1]*Subscript[A, 6] - 4500*Subscript[A, 4]*Subscript[A, 6] - 
+      6750*Subscript[A, 5]*Subscript[A, 6] + 39*Subscript[A, 2]*
+       (6*Subscript[A, 3] - 5*(3*Subscript[A, 4] - 2*Subscript[A, 5] + 
+          23*Subscript[A, 6])) + 39975*Subscript[A, 1]*Subscript[A, 7] + 
+      14250*Subscript[A, 6]*Subscript[A, 7] + 234*Subscript[B, 2]*Subscript[B, 3] - 
+      585*Subscript[B, 2]*Subscript[B, 4] + 390*Subscript[B, 3]*Subscript[B, 4] - 
+      585*Subscript[B, 1]*Subscript[B, 5] + 390*Subscript[B, 2]*Subscript[B, 5] + 
+      20*Subscript[B, 3]*Subscript[B, 5] + 3000*Subscript[B, 4]*Subscript[B, 5] + 
+      3510*Subscript[B, 1]*Subscript[B, 6] - 4485*Subscript[B, 2]*Subscript[B, 6] - 
+      4480*Subscript[B, 3]*Subscript[B, 6] - 4500*Subscript[B, 4]*Subscript[B, 6] - 
+      6750*Subscript[B, 5]*Subscript[B, 6] + 234*Subscript[C, 2]*Subscript[C, 3] - 
+      585*Subscript[C, 2]*Subscript[C, 4] + 390*Subscript[C, 3]*Subscript[C, 4] - 
+      585*Subscript[C, 1]*Subscript[C, 5] + 390*Subscript[C, 2]*Subscript[C, 5] + 
+      20*Subscript[C, 3]*Subscript[C, 5] + 3000*Subscript[C, 4]*Subscript[C, 5] + 
+      234*Subscript[D, 2]*Subscript[D, 3] - 585*Subscript[D, 2]*Subscript[D, 4] + 
+      390*Subscript[D, 3]*Subscript[D, 4] + 234*Subscript[G, 2]*Subscript[G, 3]) == 0 && 
+   -4 + Subscript[A, 7]^2 <= 0, {Subscript[A, 1], Subscript[A, 2], Subscript[A, 3], 
+   Subscript[A, 4], Subscript[A, 5], Subscript[A, 6], Subscript[A, 7], Subscript[B, 1], 
+   Subscript[B, 2], Subscript[B, 3], Subscript[B, 4], Subscript[B, 5], Subscript[B, 6], 
+   Subscript[C, 1], Subscript[C, 2], Subscript[C, 3], Subscript[C, 4], Subscript[C, 5], 
+   Subscript[D, 1], Subscript[D, 2], Subscript[D, 3], Subscript[D, 4], Subscript[G, 1], 
+   Subscript[G, 2], Subscript[G, 3], Subscript[H, 1], Subscript[H, 2], Subscript[J, 1]}, 
+  Reals]
